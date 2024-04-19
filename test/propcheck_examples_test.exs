@@ -1,11 +1,9 @@
-
 defmodule SortTest do
   @moduledoc """
   Some simple tests around sort
 
   """
   use ExUnit.Case
-
   use PropCheck
 
   test "Typical Sort Example test " do
